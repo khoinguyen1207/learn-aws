@@ -106,4 +106,4 @@
 ---
 
 📚 **Tài liệu AWS chính thức**: https://docs.aws.amazon.com/ec2/index.html  
-📚 **Repo github **: https://github.com/hoanglinhdigital/aws-cloud-for-beginner/tree/master/computing-service-ec2
+📚 **Repo github**: https://github.com/hoanglinhdigital/aws-cloud-for-beginner/tree/master/computing-service-ec2
