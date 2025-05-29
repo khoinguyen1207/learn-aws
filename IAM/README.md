@@ -85,3 +85,5 @@ EC2 instance cần quyền đọc S3 → gán IAM role có quyền `s3:GetObject
   ]
 }
 ```
+
+📚 **Repo github**: https://github.com/hoanglinhdigital/aws-cloud-for-beginner/tree/master/identity-and-access-management(iam)
