@@ -67,7 +67,6 @@ stateDiagram-v2
 
 📌 Làm sao biết EC2 của bạn dùng loại nào?
 Khi tạo EC2, chọn AMI và instance type sẽ quyết định.
-
 Bạn có thể kiểm tra trong phần "Root device type":
 
 - Nếu ghi là ebs → có thể stop.
